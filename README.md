@@ -41,6 +41,7 @@ TechDesk é um sistema de gerenciamento de chamados desenvolvido com React, Vite
 - Integração com backend
 - API REST
 - Banco de dados
+- Responsividade
 
 ---
 
