@@ -38,10 +38,9 @@ TechDesk é um sistema de gerenciamento de chamados desenvolvido com React, Vite
 ## 🚧 Próximos passos
 
 - Persistência com localStorage
-- Integração com backend (Django)
+- Integração com backend
 - API REST
 - Banco de dados
-- Autenticação de usuários
 
 ---
 
